@@ -1,0 +1,26 @@
+{
+  "name": "skylarkclutch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.0.0"
+  },
+  "keywords": [],
+  "author": "Vipul Bhardwaj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "cors": "^2.8.4",
+    "express": "4.16.3",
+    "mongoose": "5.0.17",
+    "mongoose-timestamp": "0.6.0",
+    "multer": "1.3.0",
+    "nodemailer": "4.6.7",
+    "request": "2.87.0"
+  }
+}
